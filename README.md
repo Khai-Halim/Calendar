@@ -1,0 +1,1 @@
+Calendar component for making bookings.
